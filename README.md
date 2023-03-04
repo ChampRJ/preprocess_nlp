@@ -7,7 +7,7 @@ This python package is prepared by Rahul Jain.
 
 Install
 
-`pip install git+ssh://git@github.com/ChampRJ/preprocess_nlp.git`
+`pip install git+https://github.com/ChampRJ/preprocess_nlp.git`
 
 Uninstall
 
